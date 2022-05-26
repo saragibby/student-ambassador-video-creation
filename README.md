@@ -4,6 +4,13 @@ Posting content to YouTube is a great way to engage with your audience and build
 
 We are here to help you create the best content possible. We've put together a set of resources and tips on this site to help you get started. We are hosting a set of training events to introduce the tools and best practices, and help you gain the necessary skills.
 
+## Key resources
+
+- [A collection of quickstarts](quickstarts.md) you can use as topics for your videos
+- [A framework for creating videos](video-creation.md) to help guide you through the process
+- [Information about ClipChamp](#tooling), a web-based video editor for creating content
+- The tips and tricks provided on this page
+
 ## Content
 
 The best technical content on YouTube is videos which are roughly 5-10 minutes in length, and focus on one topic. You can share a technique, explain a concept, or demonstrate an activity.
